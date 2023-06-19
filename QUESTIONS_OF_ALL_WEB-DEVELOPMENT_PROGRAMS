@@ -4,3 +4,5 @@ Write a program to show an image of a tiger and tell about him and insert a link
 Write a program to show a poem’s para written in different colors font size will be 16px and font family will be Arial and the background of the page should be black and name the author in italic on your webpages.
 Write a program to show a table on your webpage. In this table, one column would be of names, class, roll no, and grades. border will be 2 px, padding of 3px, margin 4px. color, background color, random.
 Write a program to show list of subjects then chapter then topics in your webpage.
+create a admission form taking name , father's name , mother's name , age , date of birth , mobile number , sex and in last give reset and submit button.
+using class and id in external css page border and color the paragraphs of your webpage.
